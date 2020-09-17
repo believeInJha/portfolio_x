@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://apurvjha.social/sitemap.xml
+Host: https://apurvjha.social
